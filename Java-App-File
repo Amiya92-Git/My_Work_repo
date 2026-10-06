@@ -25,3 +25,4 @@ public class GreetingApp {
         scanner.close();
     }
 }
+Hi i am Java student
